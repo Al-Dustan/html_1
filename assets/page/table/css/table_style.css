@@ -1,0 +1,40 @@
+body{
+	background: url("../img/wallpaper_1920x1080.jpg") fixed;
+	
+	
+}
+			#text{
+				color: white;
+				font-size: 20px;
+				text-align: justify;
+				word-spacing: 5px;
+				letter-spacing: 2px;
+				text-transform: capitalize;
+				line-height: 1.5;
+				text-shadow: 1px 1px 1px #01B6FD;
+				
+			}
+			#q{
+				color: green;
+				text-shadow: 1px 1px 1px #01B6FD;
+			}
+			.r{
+				color: red;
+				text-shadow: 1px 1px 1px #01B6FD;
+			}
+			a{
+				color: #fff;
+				text-decoration: none;
+				text-shadow: 1px 1px 5px #01B6FD;
+			}
+			.title{
+				color: #01B6FD;
+				
+				
+			}
+			a h2{
+				text-shadow: 1px 1px 1px #01B6FD;
+			}
+			#bolod{
+				font-size: 25px;
+			}

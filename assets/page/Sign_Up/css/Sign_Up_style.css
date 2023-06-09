@@ -1,0 +1,55 @@
+body{
+	background: url("../img/wallpaper_1920x1080.jpg") fixed;
+	
+	
+}
+			label{
+				color: white;
+				/*font-size: 20px;
+				text-align: justify;
+				word-spacing: 5px;
+				letter-spacing: 2px;
+				text-transform: capitalize;
+				line-height: 1.5;
+				*/
+				text-shadow: 1px 1px 1px #01B6FD;
+				
+				
+			}
+			
+			#q{
+				color: green;
+				text-shadow: 1px 1px 1px #01B6FD;
+				text-decoration: none;
+			}
+			.r{
+				color: red;
+				text-shadow: 1px 1px 1px #01B6FD;
+			}
+			.border{
+				font-size: 20px;
+				border-radius: 50px 50px 50px 50px;
+			}
+			.border_2{
+				color: #01B6FD;
+				font-size: 20px;
+				border-radius: 0px 50px 50px 0px;
+			}
+			input{
+				color: #01B6FD;
+				font-size: 20px;
+				border-radius: 0px 20px;
+			}
+			.submit{
+				color: red;
+				font-size: 20px;
+				border-radius: 20px 0px 20px 20px;
+			}
+			.reset{
+				color: red;
+				font-size: 20px;
+				border-radius: 0px 20px 20px 20px;
+			}
+			form{
+				color: white;
+			}
